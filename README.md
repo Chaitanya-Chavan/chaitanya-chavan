@@ -1,5 +1,5 @@
 <!-- 👀 Profile View Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-chavan&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-chavan" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-chavan&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-chavan" /> </p>-->
 
 ### Hi 👋, I'm Chaitanya Chavan  
 #### A Computer Science Enthusiast  
