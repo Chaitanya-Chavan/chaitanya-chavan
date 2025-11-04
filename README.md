@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chaitanyachavan0779" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a><br><br>
+</a><br/><br/>
 <a href="mailto:chaitanya0779@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
 </a>
@@ -35,6 +35,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-chavan&show_icons=true&theme=tokyonight" alt="Chaitanya's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-chavan&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
+</p>
+
+---
+
+### 🏆 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-chavan&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
