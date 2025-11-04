@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chaitanyachavan0779" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
+</a><br><br>
 <a href="mailto:chaitanya0779@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
 </a>
@@ -35,15 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
-
----
-
-### 🚀 Projects:
-- 🔹 [BigBasket Clone (Mini Project)](https://github.com/yourusername/BigBasketClone)
-- 🔹 [Portfolio Website](https://github.com/yourusername/Portfolio)
-- 🔹 [Java DSA Practice](https://github.com/yourusername/JavaDSA)
 
 ---
 
